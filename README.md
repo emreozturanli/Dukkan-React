@@ -1,6 +1,6 @@
 # Dükkan with React
 
-[See the page](https://emreozturanli.github.io/Dukkan-React/)
+[See the page](https://dukkan-react.vercel.app)
 
 * I practiced useReducer hook and Context API in this project.
 * I used Styled Components for styling.
